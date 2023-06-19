@@ -1,11 +1,11 @@
-About r-ghapps
-==============
+About r-ghapps-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ghapps-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/r-lib/ghapps
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ghapps-feedstock/blob/main/LICENSE.txt)
 
 Summary: 'GitHub' apps provide a powerful way to manage fine grained programmatic access to specific 'git' repositories, without having to create dummy users, and which are safer than a personal access token for automated tasks. This package extends the 'gh' package to let you authenticate and interact with 'GitHub' <https://docs.github.com/en/rest/overview> in 'R' as an app.
 

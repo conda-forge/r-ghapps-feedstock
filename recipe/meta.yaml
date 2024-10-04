@@ -1,4 +1,4 @@
-{% set version = "1.1.0" %}
+{% set version = "1.1.1" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/ghapps_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/ghapps/ghapps_{{ version }}.tar.gz
-  sha256: d677f01e7cd5c80f4d674e910716184f74012137a217718f4894707f5a466437
+  sha256: 653abe4fffca014438579a436eb2719b1eaab967600ef99a5e78c23dfe9fa4a2
 
 build:
   number: 0
